@@ -11,16 +11,18 @@ This Flutter application allows users to input a location or coordinates and vie
 ## Screenshots
 
 ### First Page
-<img src="https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/blob/16147c0b18bab1e6edf966a634f802156133d61c/01.jpg" alt="First Page Screenshot" height="500"/>
+<img src="https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/blob/16147c0b18bab1e6edf966a634f802156133d61c/01.jpg" alt="First Page Screenshot" height="500" width="200"/>
 
+<img src="https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/blob/6c7a11eeb6a4b65f31a3ed682b6a354fab22da47/05.jpg" alt="Fifth Page Screenshot" height="500" width="200"/>
 ### Second Page
-![Second Page Screenshot](path_to_second_page_screenshot)
+<img src="https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/blob/6c7a11eeb6a4b65f31a3ed682b6a354fab22da47/03.jpg" alt="Third Page Screenshot" height="500" width="200"/>
 
+<img src="https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/blob/6c7a11eeb6a4b65f31a3ed682b6a354fab22da47/04.jpg" alt="Fourth Page Screenshot" height="500" width="200"/>
 ## How to Clone and Run the Project
 
 To clone this project, follow these steps:
 
-1. Copy the GitHub repository link: [GitHub Repository Link](https://github.com/Gunitgirdhar/Location_finder-RIDESENSE).
+1. Copy the GitHub repository link: [GitHub Repository Link](https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/tree/master).
 2. Open Android Studio (or any other IDE you prefer).
 3. Go to `File` -> `New` -> `Project from Version Control...`.
 4. Paste the copied link in the URL field and choose your preferred directory.
