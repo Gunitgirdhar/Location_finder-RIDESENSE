@@ -11,7 +11,7 @@ This Flutter application allows users to input a location or coordinates and vie
 ## Screenshots
 
 ### First Page
-![First Page Screenshot](path_to_first_page_screenshot)
+![First Page Screenshot](https://github.com/Gunitgirdhar/Location_finder-RIDESENSE/blob/16147c0b18bab1e6edf966a634f802156133d61c/01.jpg)
 
 ### Second Page
 ![Second Page Screenshot](path_to_second_page_screenshot)
